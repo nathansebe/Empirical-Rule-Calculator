@@ -1,5 +1,5 @@
-mean = float(input("what is the mean"))
-sd = float(input("what is the standard deviation"))
+mean = float(input("what is the mean of your data set"))
+sd = float(input("what is the standard deviationof your data set"))
 
 up = mean + sd
 down = mean - sd
