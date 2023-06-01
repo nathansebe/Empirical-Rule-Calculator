@@ -10,6 +10,6 @@ downnn = mean -sd -sd - sd
 
 
 
-print("68 percent of the data lies between " + str(up) + "and" + str(down) +"\n")
-print("95 percent of the data lies between " + str(upp) + "and" + str(downn) +"\n")
-print("99.7 percent of the data lies between " + str(uppp) + "and" + str(downnn) +"\n")
+print("\n68 percent of the data lies between " + str(down) + " and " + str(up) +"\n")
+print("95 percent of the data lies between " + str(downn) + " and " + str(upp) +"\n")
+print("99.7 percent of the data lies between " + str(downnn) + " and " + str(uppp) +"\n")
